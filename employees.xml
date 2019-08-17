@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employeeRecord>
+    <records id="1">
+        <name>Cosmin</name>
+        <age>25</age>
+        <role>Developer</role>
+        <gender>Male</gender>
+    </records>
+    <records id="2">
+        <name>Charile</name>
+        <age>28</age>
+        <role>PM</role>
+        <gender>Male</gender>
+    </records>
+</employeeRecord>
